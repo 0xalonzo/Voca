@@ -1,8 +1,6 @@
 # Voca
 # AAC Communication Device
 
-![AAC Device Demo](demo.gif) *(Add screenshot/video later)*
-
 A customizable Augmentative and Alternative Communication (AAC) device built with Python and Raspberry Pi, designed to help non-verbal individuals communicate.
 
 ## Features
