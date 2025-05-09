@@ -30,7 +30,7 @@ class Button:
         try:
             # change color of button
             self.color = (0, 200, 0) # green
-            pygame.display.flip()  # this might be mkaing the screen flicker
+            #pygame.display.flip()  # this might be mkaing the screen flicker
             
             # generate speech
             filename = f"temp_{hash(self.speech_text)}.mp3"
